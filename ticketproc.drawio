@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T21:27:59.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" version="15.0.3" etag="4IJ4f7hrYj2FHZpmIMHf" type="github"><diagram id="-Xvk1kDkfuCNeJRQ5bB8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-27T21:39:22.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="PVylPPLJzX5-K1-epywC" version="15.0.3" type="github">
+  <diagram id="-Xvk1kDkfuCNeJRQ5bB8" name="Page-1">
+    <mxGraphModel dx="872" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V00p30u9__0bo1_BE7uq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V00p30u9__0bo1_BE7uq-1" target="V00p30u9__0bo1_BE7uq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V00p30u9__0bo1_BE7uq-1" target="V00p30u9__0bo1_BE7uq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-1" value="Trention:&lt;br&gt;Reset Password" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V00p30u9__0bo1_BE7uq-2" target="V00p30u9__0bo1_BE7uq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="V00p30u9__0bo1_BE7uq-2" target="V00p30u9__0bo1_BE7uq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-21" value="Sometimes we triage &lt;br&gt;original issue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V00p30u9__0bo1_BE7uq-20">
+          <mxGeometry x="-0.1071" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-2" value="Customer creates request &lt;br&gt;SDE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-3" value="&quot;I can&#39;t login&quot;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V00p30u9__0bo1_BE7uq-5" target="V00p30u9__0bo1_BE7uq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-5" value="Respond to Customer" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-7" value="Close ticket" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(102 , 102 , 102) ; text-align: right&quot;&gt;Trenton thinks spaces&lt;/span&gt;&lt;br style=&quot;color: rgb(102 , 102 , 102) ; text-align: right&quot;&gt;&lt;span style=&quot;color: rgb(102 , 102 , 102) ; text-align: right&quot;&gt;in username is causing&lt;/span&gt;&lt;br style=&quot;color: rgb(102 , 102 , 102) ; text-align: right&quot;&gt;&lt;span style=&quot;color: rgb(102 , 102 , 102) ; text-align: right&quot;&gt;a problem&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="165" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V00p30u9__0bo1_BE7uq-11" target="V00p30u9__0bo1_BE7uq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-11" value="Create SDI ticket" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V00p30u9__0bo1_BE7uq-13" target="V00p30u9__0bo1_BE7uq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-13" value="Mike:&lt;br&gt;Triage ticket&lt;br&gt;&quot;Yes, it&#39;s a reproducible problem&quot;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V00p30u9__0bo1_BE7uq-15" target="V00p30u9__0bo1_BE7uq-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="V00p30u9__0bo1_BE7uq-15" target="V00p30u9__0bo1_BE7uq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-15" value="Dev Team:&lt;br&gt;Create backlog item" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-19" value="Close ticket" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V00p30u9__0bo1_BE7uq-22" value="Mgmt ranks" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
